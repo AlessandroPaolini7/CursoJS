@@ -1,0 +1,56 @@
+ [
+    {
+      "id": 1,
+      "nombre": "iPhone 13",
+      "precio": 708,
+      "imagen":"../img/iPhone13.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "AirPods 3rd Gen",
+      "precio": 180,
+      "imagen":"../img/AirPods.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Apple Watch",
+      "precio": 300,
+      "imagen":"../img/Awatch.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Alexa",
+      "precio": 50,
+      "imagen":"../img/Alexa.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Termo Stanley",
+      "precio": 20,
+      "imagen":"../img/Termo.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Samsung Galaxy S21",
+      "precio": 700,
+      "imagen":"../img/s21.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "JBL Flip 6",
+      "precio": 50,
+      "imagen":"../img/flip.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "PS5",
+        "precio": 1000,
+        "imagen":"../img/ps5.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Notebook Dell Ispiron 15",
+        "precio": 720,
+        "imagen":"../img/dell.jpg"
+    }
+]
